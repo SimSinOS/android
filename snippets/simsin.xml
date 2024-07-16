@@ -9,4 +9,5 @@
     <project name="android_packages_apps_Via" path="packages/apps/Via" remote="simsin" />
     <project name="android_packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" remote="simsin" />
     <project name="android_packages_modules_NetworkStack" path="packages/modules/NetworkStack" remote="simsin" />
+    <project name="android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" remote="simsin" />
 </manifest>
