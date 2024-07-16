@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="simsin"
+        fetch="https://github.com/SimSinOS"
+        revision="14.0" />
+    
+    <project name="android" path="android" remote="simsin"/>
+
+</manifest>

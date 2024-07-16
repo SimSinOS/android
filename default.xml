@@ -1337,4 +1337,6 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
+  <include name="snippets/remove.xml" />
+  <include name="snippets/simsin.xml" />
 </manifest>
