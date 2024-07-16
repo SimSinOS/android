@@ -5,5 +5,7 @@
         revision="14.0" />
     
     <project name="android" path="android" remote="simsin"/>
+    <project name="android_vendor_simsin" path="vendor/lineage" remote="simsin" />
+    <project name="android_packages_apps_Via" path="packages/apps/Via" remote="simsin" />
 
 </manifest>

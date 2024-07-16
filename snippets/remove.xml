@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
     <remove-project name="LineageOS/android" />
+    <remove-project path="vendor/lineage" name="LineageOS/android_vendor_lineage" />
+    <reomve-project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" />
+
 </manifest>
